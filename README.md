@@ -8,7 +8,7 @@
 
 # 你好！👋
 
-我是 **Bluesmmm**，一名机器学习开发者，专注于：
+我是 **Xinyu (Jeff) Liu**，一名大模型算法开发工程师，专注于：
 
 - 🤖 使用 PyTorch 和 TensorFlow 进行深度学习
 - 🐍 Python 开发与最佳实践
