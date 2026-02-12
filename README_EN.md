@@ -8,7 +8,7 @@
 
 # Hi there! 👋
 
-I'm **Bluesmmm**, a Machine Learning Developer passionate about:
+I'm **Xinyu (Jeff) Liu**, a AI Algorithm Engineer & Developer passionate about:
 
 - 🤖 Deep Learning with PyTorch & TensorFlow
 - 🐍 Python development and best practices
