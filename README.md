@@ -15,13 +15,6 @@
 - 📊 数据分析与可视化
 - 🔬 研究与实验
 
-<!-- PYTHON-QUOTE:START -->
-
-> *"我们正遭受数据过剩、智慧不足的困扰。"*  
-> — **杰伊·沃克 (Jay Walker)**
-
-<!-- PYTHON-QUOTE:END -->
-
 [![](https://badges.pufler.dev/visits/Bluesmmm/Bluesmmm)](https://github.com/Bluesmmm)
 
 ---
