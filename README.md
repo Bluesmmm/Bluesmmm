@@ -8,7 +8,7 @@
 
 # 你好！👋
 
-我是 **Xinyu (Jeff) Liu**，一名大模型算法开发工程师，专注于：
+我是 **Xinyu (Jeff) Liu**，一名处在AI大航海时代的大模型算法&开发工程师，专注于：
 
 - 🤖 使用 PyTorch 和 TensorFlow 进行深度学习
 - 🐍 Python 开发与最佳实践
